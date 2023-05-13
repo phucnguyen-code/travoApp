@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62528631261",
+    "project_id": "travoapp-f840e",
+    "storage_bucket": "travoapp-f840e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62528631261:android:a5023b573182aac500c634",
+        "android_client_info": {
+          "package_name": "com.example.travo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62528631261-muk49u18h6gck1u2hjn4iqm718udembr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowIDu3dyNbpL6TElBHa6tQNV0B7GYPvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62528631261-muk49u18h6gck1u2hjn4iqm718udembr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
